@@ -1,2 +1,2 @@
-![Github Banner](https://i.pinimg.com/736x/e5/7b/9c/e57b9c990271fd73bb133caeddeb44e5.jpg)
+![Github Banner](https://i.pinimg.com/1200x/f2/9f/7a/f29f7af6b35e675f2902acd33c7c6e17.jpg)
 <h1>Hello world. I'm Caronte236 from Mexico</h1>

@@ -3,7 +3,7 @@
 ```Java
 public class WhoAmI(){
 public String user = "Caronte236";
-public String currently_learning = "Javascript";
+public String currently_learning = "Java";
 public String [] current_code = {"bash","Java","HTML/CSS"};
 public String hobbies = """
                 Music,
